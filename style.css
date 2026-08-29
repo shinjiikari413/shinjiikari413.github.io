@@ -140,7 +140,7 @@ a, button {
     height: 450px;
     object-fit: cover;
     border-radius: 16px;
-    background-color: #e1ebe4; /* Light green box placeholder before image is uploaded */
+    background-color: #FFFFFF; /* Light green box placeholder before image is uploaded */
     border: none; 
 }
 
